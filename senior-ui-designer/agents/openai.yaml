@@ -1,0 +1,4 @@
+interface:
+  display_name: "资深 UI 设计师"
+  short_description: "从界面策略、信息层级到高保真视觉表达，推进产品设计落地"
+  default_prompt: "Use $senior-ui-designer to define the UI direction, refine hierarchy, and deliver polished design guidance for this product."
